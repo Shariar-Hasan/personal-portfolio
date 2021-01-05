@@ -1,0 +1,102 @@
+/* all section use start */
+
+
+/* all text color               #363958     */
+/* highlighted color            #FF8367     */
+
+
+body{
+    /* font-family: 'Bebas Neue', cursive; */
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color: #363958;
+}
+
+.txt-org{
+    color: #FF8367 ;
+}
+.button{
+    background-color: #FF8367 ;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.special-font{
+    font-family: 'Bebas Neue', cursive;
+}
+/* all section use end */
+
+/* header section start */
+.header{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: right;
+}
+.header ul{}
+.header ul li{
+    list-style: none;
+    display: inline-block;
+}
+.header ul li a{
+    text-decoration: none;
+    color: #363958;
+    padding: 10px 20px;
+}
+
+
+/* header section end */
+
+
+/* head+mid banner start */
+.head-banner,.mid-banner{
+    width: 1200px;
+    margin: 50px auto;
+    height: 400px;
+}
+.head-banner h1{
+    font-size: 70px;
+    margin: 20px 0;
+}
+.mid-banner h1{
+    font-size: 50px;
+}
+.head-banner p,.mid-banner p{
+    margin-bottom: 40px;
+}
+.hire{
+    width: 50%;
+    float: left;
+}
+.hire img{
+    width: 100%;
+}
+.extra-margin{
+    margin-left: 120px;
+    padding-top: 100px;
+    width: 40%;
+}
+
+/* head+mid banner end */
+
+
+
+
+/* latest working project start */
+
+
+/* latest working project end */
+
+
+
+/* work inquiry start */
+
+
+/* work inquiry end */
+
+
+
+/* social menu start */
+/* social menu end */
