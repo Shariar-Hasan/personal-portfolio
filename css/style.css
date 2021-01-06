@@ -61,7 +61,7 @@ body{
 }
 .head-banner h1{
     font-size: 70px;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 .mid-banner h1{
     font-size: 50px;
@@ -136,6 +136,40 @@ a{
 
 /* --------------------------------------- */
 
+/* client review start */
+.client-section{
+    width: 100%;
+    margin: 100px 0;
+}
+.client img{
+    border-radius: 50%;
+    width: 100px;
+}
+.client{
+    width: 25%;
+    margin: 0 4%;
+    float: left;
+}
+.client-container{
+    width: 906px;
+    margin: 0 auto;
+    text-align: center;
+}
+.client-review i{
+font-size: 24px;
+
+}
+.client-review p {
+    font-size: 21px;
+    color: gray;
+}
+.client-review h5{
+    color: gray;
+}
+/* client review end */
+
+/* --------------------------------------- */
+
 /* work inquiry start */
 .work-in{
     width: 100%;
@@ -143,7 +177,7 @@ a{
     clear: both;
 }
 .work-in-inner{
-width: 900px;
+width: 906px;
 height: 225px;
 margin: 0 auto;
 background-image: url('../images/work-in-bg.png');
@@ -209,8 +243,22 @@ background-size: cover;
 /* -------------------------------------- */
 /* footer section start */
 
-.footer-section{
-    background-color: #f8f9fc ;
+.footer-section {
+    background-color: #F8F9FC;
+    width: 100%;
+    padding: 25px 0;
+    line-height: 5px;
+}
+.footer-inner{
+    max-width: 906px;
+    margin: 0 auto;
+    color: gray;
+}
+.footer-left{
+    float: left;
+}
+.footer-right{
+    float: right;
 }
 
 /* footer section end */
