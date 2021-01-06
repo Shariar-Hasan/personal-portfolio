@@ -190,7 +190,7 @@ font-size: 24px;
 width: 906px;
 height: 225px;
 margin: 0 auto;
-background-image: url('../images/work-in-bg.png');
+background-image: url("../images/work-in-bg.png");
 background-size: cover;
 }
 .work-in-inner .second-inner{
