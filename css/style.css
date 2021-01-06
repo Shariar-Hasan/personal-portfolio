@@ -137,23 +137,32 @@ a{
 /* --------------------------------------- */
 
 /* client review start */
-.client-section{
+.client-section {
     width: 100%;
     margin: 100px 0;
+    height: 550px;
 }
 .client img{
     border-radius: 50%;
     width: 100px;
 }
-.client{
+.client {
     width: 25%;
-    margin: 0 4%;
+    margin: 0 1%;
     float: left;
+    box-shadow: 1px 1px 40px gray;
+    border-radius: 50px 0 50px 0;
+    padding: 3%;
 }
 .client-container{
     width: 906px;
     margin: 0 auto;
     text-align: center;
+}
+.client-section h2 {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 50px;
 }
 .client-review i{
 font-size: 24px;
