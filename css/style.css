@@ -156,7 +156,7 @@ a{
 }
 
 .client-container{
-    width: 906px;
+    width: 1200px;
     margin: 0 auto;
     text-align: center;
 }
@@ -264,11 +264,8 @@ background-size: cover;
     margin: 0 auto;
     color: gray;
 }
-.footer-left{
-    float: left;
-}
-.footer-right{
-    float: right;
+.footer{
+    text-align: center;
 }
 
 /* footer section end */
